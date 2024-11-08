@@ -1,1 +1,2 @@
 gorules/editor
+registry.hf.space/tachibanayoshino-animeganv3
